@@ -31,7 +31,6 @@ Project123/
 │   ├── atomv.c          # Main implementation
 │   ├── atomv.h          # Header definitions
 │   ├── md.conf          # Configuration file
-│   └── reinforcedAtomv.c # Enhanced features
 ├── x64/                 # Build outputs
 └── Project123.sln       # Solution file
 ```
