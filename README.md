@@ -8,14 +8,14 @@ An OpenGL-based visualization tool for molecular dynamics simulation, developed 
 
 ## Key Features ✨
 - **3D Molecular Visualization**
- - Real-time rendering of atomic structures
- - Color-coded stress tensor visualization
- - Dynamic atom trajectory tracking
+    - Real-time rendering of atomic structures
+    - Color-coded stress tensor visualization
+    - Dynamic atom trajectory tracking
 
 - **Interactive Controls**
- - Press 't' to toggle atom tracking (tracked atom highlighted in white)
- - Press 'c' to clear current trajectory
- - Press 'q' to quit program
+    - Press 't' to toggle atom tracking (tracked atom highlighted in white)
+    - Press 'c' to clear current trajectory
+    - Press 'q' to quit program
 
 ## Technical Implementation 🔧
 ### Core Technologies
@@ -43,8 +43,8 @@ Project123/
 
 2. Build Steps:
     - Clone the repository
-    - OpenGL libraries
-    - GLUT library
+    - Open CSCi596.sln in Visual Studio
+    - Build the solution (F5 or Ctrl_F5 to run)
 
 ## Implementation Details 💡
 ### Stress Visualization
